@@ -4,6 +4,8 @@
 )<br>
 目前在[琴理工作室](https://qlstudio.club/)担任实习生，~~喜欢唱跳rap篮球~~
 
+![kagg886's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagg886&show_icons=true&theme=radical)
+
 # 都会些什么
 ### 1. C语言
 - 只会一点基础的语法 umm...
