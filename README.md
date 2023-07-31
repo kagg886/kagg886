@@ -1,8 +1,7 @@
 # 自我介绍
-~~24岁，是学生~~<br>
-其实截止到本仓库创建的时候我只是一位18岁~~jk美少女~~(死肥宅
-)<br>
-目前在[琴理工作室](https://qlstudio.club/)担任实习生，~~喜欢唱跳rap篮球~~
+~~19岁，是学生~~
+
+~~喜欢唱跳rap，篮球就不必要了~~
 
 ![kagg886's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagg886&show_icons=true&theme=radical)
 
@@ -14,10 +13,21 @@
 ### 2. ~~Jvav~~
 - 只熟悉一些常用类，如System,Math,Thread等
 - 不会JavaFX，但立志于写BukkitPlugin(~~咕辣~~)
+
+~~java太卷啦不想玩了呜呜呜~~
+
 ### 3. Android
-- 熟悉常用布局，正在学习使用AndroidX库
+- 熟悉常用布局
 - 浅知一些适配问题。如动态权限申请(~~调库~~)，使用FileProvider访问外部文件等...
-### 4. 吃喝玩乐
+- 只是玩玩，因此`kotlin-compose`不打算研究
+
+### 4. Vue3
+
+- 未来准备靠着这个吃饭。点亮的技术栈有：
+  1. `Taro`+`Tarojs/html`
+  2. `ElementPlus`
+
+### 5. 吃喝玩乐
 - 懒得玩游戏，防止高血压
 
 # 如何联系我
