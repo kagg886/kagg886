@@ -5,7 +5,7 @@
 
 ![kagg886's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagg886&show_icons=true&theme=radical)
 
-![My favirote languages](https://github-readme-stats.vercel.app/api/top-langs?username=kagg886&show_icons=true&count_private=true&theme=gotham)
+![my favorite lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=kagg886&layout=compact&hide_border=true&langs_count=50)
 
 # 如何联系我
 - Follow Me!
