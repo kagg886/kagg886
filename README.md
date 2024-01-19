@@ -5,6 +5,8 @@
 
 ![kagg886's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagg886&show_icons=true&theme=radical)
 
+![My favirote languages](https://github-readme-stats.vercel.app/api/top-langs?username=kagg886&show_icons=true&count_private=true&theme=gotham)
+
 # 都会些什么
 ### 1. C语言
 - 只会一点基础的语法 umm...
