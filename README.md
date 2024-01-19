@@ -1,3 +1,5 @@
+Visit Count: ![Visit Count](https://profile-counter.glitch.me/kagg886/count.svg)
+
 # 自我介绍
 ~~19岁，是学生~~
 
